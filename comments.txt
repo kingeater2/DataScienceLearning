@@ -4,4 +4,6 @@ Second step: upload codes to remote repository using
 		b) git commit
 		c) git push
 
-This is a change on dev branch in local repo
+This is a change on dev branch in local repo. -> pushed changes successfully to remote and created new branch dev
+
+This is a change on dev branch in remote repo. -> try pulling the change to local dev
