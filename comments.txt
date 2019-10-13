@@ -3,3 +3,5 @@ Second step: upload codes to remote repository using
 		a) git add <file_name>
 		b) git commit
 		c) git push
+
+This is a change on dev branch in local repo
