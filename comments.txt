@@ -1,0 +1,5 @@
+First step: Clone a remote repository to local repository.
+Second step: upload codes to remote repository using 
+		a) git add <file_name>
+		b) git commit
+		c) git push
